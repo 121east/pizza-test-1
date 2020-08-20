@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Welcome to our new website...
+    title: Welcome to our site...
     section_id: hero
     content: This will simply become the best Italian-style pizza in this area. Read
       on to learn more about us.
