@@ -5,7 +5,7 @@
     "type": "header",
     "title": "Pizza, pasta, coffee and more",
     "logo_img": "/images/cover.png",
-    "has_nav": false,
+    "has_nav": true,
     "nav_links": [
       {
         "type": "action",
