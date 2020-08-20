@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Welcome to our new website about our launch
+    title: Welcome to our new website...
     section_id: hero
     content: This will simply become the best Italian-style pizza in this area. Read
       on to learn more about us.
@@ -12,10 +12,10 @@ sections:
         label: Learn More
         url: /features
   - type: section_features
-    title: Features
+    title: What we will offer
     section_id: features
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    subtitle: Early days to tell you everything, but you will get a taster for who
+      we are and what will be on offer.
     background: gray
     features:
       - type: feature_item
