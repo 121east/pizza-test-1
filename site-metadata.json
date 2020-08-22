@@ -21,7 +21,7 @@
         "type": "action",
         "label": "Food",
         "url": "/food",
-        "primary": true
+        "primary": false
       },
       {
         "type": "action",
