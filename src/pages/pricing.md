@@ -3,7 +3,7 @@ title: Food
 sections:
   - type: section_pricing
     title: Food menu
-    section_id: food_menu
+    section_id: /food
     subtitle: Food
     background: gray
     pricing_plans:
