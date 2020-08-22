@@ -19,8 +19,9 @@
       },
       {
         "type": "action",
-        "label": "Pricing",
-        "url": "/pricing"
+        "label": "Food",
+        "url": "/food",
+        "primary": true
       },
       {
         "type": "action",
