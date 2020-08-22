@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Food
 sections:
   - type: section_pricing
     title: Food menu
