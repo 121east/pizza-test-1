@@ -19,11 +19,14 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+        title: Authentic recipes
+        content: For many years now we have travelled around the world, eaten everything
+          from street food in Shanghai, Bangkok, Singapore and Hong Kong. Dined
+          at open air cafés in London, Paris, Athens, Istanbul, Rome, Naples,
+          Barcelona, and many more spots around the Mediterranean from Jerusalem
+          and Cairo in the east to Lisbon, Marrakech and all the way to the
+          Canary Islands and Madeira to the west.
+        image: /images/ab26e92a-56d4-4397-8c49-e610c2e8579c.jpeg
         actions:
           - type: action
             label: Learn More
@@ -72,9 +75,9 @@ sections:
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
-    title: This Is Call To Action Block!
+    title: You need to enjoy our food and service
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: If you have any issues please let management know so we can action it
     actions:
       - type: action
         label: Get Started
