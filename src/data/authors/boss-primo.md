@@ -1,5 +1,9 @@
 ---
 first_name: Boss Primo
-photo: /images/2.jpg
+bio: |-
+  Lots of information about him that you really want to know about…
+
+  yadda, yadda, yadda.
+photo: /images/author.jpg
 type: person
 ---
