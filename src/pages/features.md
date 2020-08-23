@@ -2,39 +2,30 @@
 title: Features
 sections:
   - type: section_content
-    title: The Best Features of Your Services
+    title: What we’re great at doing...
     section_id: features
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |-
+      We’re planning on providing you with the best pizza around this area...
 
+      * Authentic recipes
+      * Fresh ingredients
+      * Baked in a wood-fired brick oven
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      Learn more below
+    image: /images/profile.png
     background: gray
     actions:
       - type: action
-        label: Free Trial
+        label: Join our Loyalty Club
         url: /signup
-      - type: action
-        label: View Demo
-        url: '#'
+        primary: true
   - type: section_cta
-    title: This Is Call to Action Block!
+    title: We want you to enjoy the experience and actively welcome your feedback
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: "Get in touch with your stomach - please let us know how we’re doing "
     actions:
       - type: action
         label: Get Started
-        url: '#'
+        url: "#"
 template: landing
 ---
