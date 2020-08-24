@@ -54,6 +54,12 @@
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/",
         "new_window": true
+      },
+      {
+        "new_window": true,
+        "type": "action",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/"
       }
     ],
     "tagline": "©2020, 2021 Primo's Pizza Place",
@@ -84,7 +90,7 @@
       {
         "type": "action",
         "label": "Sign Up",
-        "url": "signup"
+        "url": "/signup"
       },
       {
         "type": "action",
